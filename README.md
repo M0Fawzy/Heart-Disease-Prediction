@@ -74,6 +74,4 @@ pip install pandas numpy matplotlib scikit-learn
 ```
 
 ## Results
-- Include a summary of the model's performance on the testing set.
-- Discuss any limitations or potential improvements for future work.
-- Optionally, provide screenshots of visualizations (correlation matrix, ROC curve) or a link to a deployed web app.
+The Model Achieved An Accuracy Of 88%
